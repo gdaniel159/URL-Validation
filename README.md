@@ -37,6 +37,12 @@ Before running the application, make sure to replace the placeholder API key wit
 ```bash 
 self.API_KEY = "your_actual_api_key"
 ```
+
+## Screenshots
+
+![App Screenshot](https://image-server-production-3ab0.up.railway.app/storage/images/url-validator.png)
+
+
 ## Authors
 
 - [@gdaniel159](https://github.com/gdaniel159)
